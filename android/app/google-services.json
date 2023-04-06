@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335833182526",
+    "project_id": "grad-app-35af4",
+    "storage_bucket": "grad-app-35af4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335833182526:android:8f1dcd0de1a3e3556a7c6f",
+        "android_client_info": {
+          "package_name": "com.example.final_dart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335833182526-nk7kso4bm4666604hb15rsus0l5mv3js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxVygrm4Suu3tSacTvuMyk1Z_2GZlgt0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335833182526-nk7kso4bm4666604hb15rsus0l5mv3js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
